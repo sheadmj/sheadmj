@@ -8,5 +8,6 @@
 - <b>Transforming Data in SQL </b>
   - [CAST, CONCAT, AND COALESCE Furniture Store Data](https://github.com/sheadmj/CAST-CONCAT-AND-COALESCE-Furniture-Store-Data)
 - <b>Sorting Queries in SQL </b>
-  - [>,<, AND ORDER BY MOVIE Data](https://github.com/sheadmj/CAST-CONCAT-AND-COALESCE-Furniture-Store-Data)
-
+  - [>,<,=,!=, and ORDER BY MOVIE Data](https://github.com/sheadmj/-ORDER-BY-Movie-Data/blob/main/README.md)
+- <b>Joins </b>
+  - [INNER JOIN with Employee Data](https://github.com/sheadmj/-ORDER-BY-Movie-Data/blob/main/README.md)
