@@ -4,6 +4,7 @@
 <h2>👨‍💻 Sql Projects:</h2>
 
 - <b>Preparing and Cleaning Data in SQL </b>
-  - [Updating Automotive Data](https://github.com/sheadmj/Preparing-and-Cleaning-Data-in-SQL)
-
+  - [UPDATE Automotive Data](https://github.com/sheadmj/Preparing-and-Cleaning-Data-in-SQL)
+- <b>Preparing and Cleaning Data in SQL </b>
+  - [CAST, CONCAT, AND COALESCE Furniture Store Data](https://github.com/sheadmj/CAST-CONCAT-AND-COALESCE-Furniture-Store-Data)
 
