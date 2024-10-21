@@ -10,4 +10,4 @@
 - <b>Sorting Queries in SQL </b>
   - [>,<,=,!=, and ORDER BY MOVIE Data](https://github.com/sheadmj/-ORDER-BY-Movie-Data/blob/main/README.md)
 - <b>Joins </b>
-  - [INNER JOIN with Employee Data](https://github.com/sheadmj/-ORDER-BY-Movie-Data/blob/main/README.md)
+  - [INNER JOIN with Employee Data](https://github.com/sheadmj/INNER-JOIN-EMPLOYEE-DATA/blob/main/README.md)
